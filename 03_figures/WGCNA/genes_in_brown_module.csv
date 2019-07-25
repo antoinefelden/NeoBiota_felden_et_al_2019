@@ -1,0 +1,785 @@
+"","ref_gene_name","gene_id","Gene...Description","Gene...Transcripts...Length"
+"11011","LOC105678292","gene12244","probable isocitrate dehydrogenase [NAD] subunit alpha, mitochondrial",1798
+"985","LOC105668267","gene3116","putative uncharacterized protein DDB_G0294196",1543
+"8889","LOC105676170","gene10302","acyl-CoA-binding protein homolog",516
+"3608","LOC105670890","gene5453","glucose-6-phosphate 1-dehydrogenase",3113
+"11811","LOC105679092","gene12881","protein msta, isoform B-like",2207
+"12889","LOC105680170","gene214","lysosomal aspartic protease",1635
+"6231","LOC105673513","gene7916","lipoyl synthase, mitochondrial",1473
+"2972","LOC105670254","gene4931","glycine-rich cell wall structural protein-like",2137
+"2816","LOC105670098","gene4741","tetra-peptide repeat homeobox protein 1-like",697
+"10036","LOC105677317","gene11326","uncharacterized LOC105677317",663
+"12804","LOC105680085","gene2098","uncharacterized LOC105680085",213
+"2811","LOC105670093","gene4727","6-phosphogluconolactonase",1134
+"5696","LOC105672978","gene7355","uncharacterized LOC105672978",741
+"4574","LOC105671856","gene6345","very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase 2",1343
+"5221","LOC105672503","gene7001","alpha-tocopherol transfer protein-like",1440
+"6060","LOC105673342","gene7761","cilia- and flagella-associated protein 57",3823
+"6062","LOC105673344","gene7760","very-long-chain enoyl-CoA reductase",1128
+"10200","LOC105677481","gene11381","ATP-binding cassette sub-family B member 8, mitochondrial",2293.5
+"5212","LOC105672494","gene6981","lysyl oxidase homolog 3",2352
+"5203","LOC105672485","gene6986","N-acetyl-D-glucosamine kinase",1697.33333333333
+"8637","LOC105675918","gene10037","uncharacterized LOC105675918",1943
+"3241","LOC105670523","gene5181","probable maltase",1690.25
+"3224","LOC105670506","gene5183","collagen alpha-5(IV) chain",5929
+"3284","LOC105670566","gene5187","ankyrin repeat domain-containing protein 6",3789.5
+"212","LOC105667494","gene2400","uncharacterized LOC105667494",2981
+"214","LOC105667496","gene2403","beta-parvin",1647.33333333333
+"5615","LOC105672897","gene7299","",173.8
+"5637","LOC105672919","gene7295","D-aspartate oxidase",1487
+"5018","LOC105672300","gene716","alpha-tocopherol transfer protein-like",853
+"12043","LOC105679324","gene1405","G-protein coupled receptor Mth2-like",1963
+"1185","LOC105668467","gene3135","uncharacterized LOC105668467",617
+"9983","LOC105677264","gene11242","ATP synthase subunit b, mitochondrial",1087
+"10501","LOC105677782","gene11718","phosphopantothenate--cysteine ligase",1675
+"10433","LOC105677714","gene11719","cytochrome c oxidase subunit NDUFA4",582
+"890","LOC105668172","gene2981","thyrotropin-releasing hormone receptor-like",1837
+"6295","LOC105673577","gene7932","fructose-bisphosphate aldolase-like",1710.125
+"10197","LOC105677478","gene1185","NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial",975
+"3015","LOC105670297","gene4912","hemocytin",12067
+"5526","LOC105672808","gene7199","beta-galactosidase",2275
+"11512","LOC105678793","gene12720","amphoterin-induced protein 2-like",2233
+"8001","LOC105675282","gene9711","glycerol kinase-like",1762
+"4578","LOC105671860","gene6326","malate dehydrogenase, cytoplasmic",1804
+"6424","LOC105673706","gene8020","glutamine synthetase 2 cytoplasmic-like",3593.33333333333
+"9743","LOC105677024","gene11011","protein deglycase DJ-1zDJ-1-like",864
+"6348","LOC105673630","gene7828","zinc transporter ZIP3",2514
+"7883","LOC105675164","gene9372","protein-L-isoaspartate O-methyltransferase domain-containing protein 1-like",2659.4
+"8526","LOC105675807","gene9880","cysteine-rich protein 1-like",754
+"1808","LOC105669090","gene3821","ubiquitin-like protein 7",1688.33333333333
+"6074","LOC105673356","gene7656","U3 small nucleolar ribonucleoprotein protein IMP3",5202
+"4724","LOC105672006","gene6513","cell wall integrity and stress response component 3-like",960
+"12094","LOC105679375","gene1429","uncharacterized LOC105679375",1729
+"6685","LOC105673967","gene8247","uncharacterized LOC105673967",2633
+"399","LOC105667681","gene2546","LRR receptor-like serine/threonine-protein kinase GSO2",3926
+"398","LOC105667680","gene2547","probable hydroxyacid-oxoacid transhydrogenase, mitochondrial",1585
+"12401","LOC105679682","gene1885","plexin domain-containing protein 1",5145
+"7259","LOC105674541","gene8762","mitochondrial enolase superfamily member 1-like",1748
+"7257","LOC105674539","gene8763","endothelin-converting enzyme 1-like",2901
+"7089","LOC105674371","gene8768","venom serine protease-like",1536
+"10472","LOC105677753","gene11733","MICOS complex subunit MIC25",1013
+"10471","LOC105677752","gene11734","B-cell receptor-associated protein 31",1199
+"8777","LOC105676058","gene10175","zinc transporter 1",2965
+"7780","LOC105675061","gene960","",1783
+"5608","LOC105672890","gene7318","lysM and putative peptidoglycan-binding domain-containing protein 3",974
+"12632","LOC105679913","gene1940","protein crumbs-like",1358
+"505","LOC105667787","gene2712","uncharacterized LOC105667787",2042
+"2238","LOC105669520","gene4278","glucose dehydrogenase [FAD, quinone]-like",2129
+"1899","LOC105669181","gene3954","NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 8",1032
+"1880","LOC105669162","gene3951","",218.714285714286
+"1898","LOC105669180","gene3952","glutathione S-transferase-like",1517
+"1894","LOC105669176","gene3953","organic cation transporter protein-like",3529
+"378","LOC105667660","gene2521","larval/pupal cuticle protein H1C-like",762
+"3009","LOC105670291","gene4891","uncharacterized LOC105670291",719
+"3007","LOC105670289","gene4892","troponin T, skeletal muscle",1785.88888888889
+"3010","LOC105670292","gene4893","uncharacterized LOC105670292",2875
+"5418","LOC105672700","gene7120","uncharacterized LOC105672700",870
+"155","LOC105667437","gene2338","odorant receptor 22c-like",1269
+"5371","LOC105672653","gene752","enolase",2094
+"10880","LOC105678161","gene12114","uncharacterized LOC105678161",3083.5
+"1141","LOC105668423","gene3172","",179.692307692308
+"8196","LOC105675477","gene9544","astakine-like",765
+"6947","LOC105674229","gene8506","uncharacterized protein C4orf29",2502
+"862","LOC105668144","gene2942","1-acyl-sn-glycerol-3-phosphate acyltransferase alpha-like",1423.66666666667
+"12029","LOC105679310","gene1385","DNA polymerase epsilon subunit 2",2062
+"10414","LOC105677695","gene1201","uncharacterized LOC105677695",884
+"4170","LOC105671452","gene638","peptidyl-prolyl cis-trans isomerase 5",1076
+"2294","LOC105669576","gene4194","membrane-associated progesterone receptor component 1",2300
+"11478","LOC105678759","gene12589","uncharacterized LOC105678759",487
+"4736","LOC105672018","gene6490","uncharacterized LOC105672018",519
+"4731","LOC105672013","gene6491","ATP synthase subunit gamma, mitochondrial",1296.5
+"933","LOC105668215","gene3009","carbonic anhydrase 2",1247
+"5260","LOC105672542","gene7017","protein RFT1 homolog",2099
+"6661","LOC105673943","gene8194","dehydrogenase/reductase SDR family protein 7-like",1360
+"1792","LOC105669074","gene3788","protein ovo",9364
+"11300","LOC105678581","gene12321","calumenin-B",1592
+"9464","LOC105676745","gene10845","alanine aminotransferase 1",2545.66666666667
+"12598","LOC105679879","gene1926","peroxisomal multifunctional enzyme type 2",1615.5
+"10302","LOC105677583","gene11419","nuclear receptor subfamily 2 group E member 1-like",4465
+"3387","LOC105670669","gene5204","short-chain dehydrogenase/reductase family 16C member 6-like",1051.66666666667
+"12075","LOC105679356","gene1469","uncharacterized LOC105679356",376
+"5939","LOC105673221","gene7506","probable transaldolase",1327
+"842","LOC105668124","gene2962","uncharacterized LOC105668124",2037
+"6403","LOC105673685","gene7998","coronin-6",2910.66666666667
+"10575","LOC105677856","gene11775","uncharacterized LOC105677856",1444.33333333333
+"10532","LOC105677813","gene11770","mitochondrial amidoxime-reducing component 1",1681
+"10550","LOC105677831","gene11771","mitochondrial amidoxime-reducing component 1-like",2063
+"8738","LOC105676019","gene10132","",300.5
+"4816","LOC105672098","gene6581","ankyrin repeat domain-containing protein 12-like",3054
+"7072","LOC105674354","gene8858","tyrosine aminotransferase",1542
+"12548","LOC105679829","gene1695","mitochondrial glutamate carrier 1-like",1874
+"645","LOC105667927","gene2762","uncharacterized LOC105667927",966
+"175","LOC105667457","gene2341","aldehyde dehydrogenase, dimeric NADP-preferring-like",1496
+"12808","LOC105680089","gene2100","UPF0454 protein C12orf49 homolog",1889.66666666667
+"9548","LOC105676829","gene10781","stearoyl-CoA desaturase 5-like",905
+"6684","LOC105673966","gene8227","pyruvate kinase-like",1867
+"10429","LOC105677710","gene11724","sphingomyelin phosphodiesterase-like",2096
+"10192","LOC105677473","gene11434","facilitated trehalose transporter Tret1-like",1797
+"10194","LOC105677475","gene11431","elongation of very long chain fatty acids protein AAEL008004-like",1487.14285714286
+"5178","LOC105672460","gene6902","UDP-glucuronosyltransferase 2B1-like",1707.66666666667
+"5320","LOC105672602","gene6903","trimeric intracellular cation channel type B",1896
+"7496","LOC105674777","gene8997","uncharacterized LOC105674777",2046
+"6086","LOC105673368","gene7669","CDGSH iron-sulfur domain-containing protein 2 homolog",805
+"9892","LOC105677173","gene11187","hemoglobin subunit beta",999
+"2583","LOC105669865","gene4434","adenylate kinase isoenzyme 1",1272.8
+"452","LOC105667734","gene2592","cyclin-dependent kinase inhibitor 1C-like",765
+"5795","LOC105673077","gene7526","4-aminobutyrate aminotransferase, mitochondrial",2190
+"4376","LOC105671658","gene6136","uncharacterized LOC105671658",742
+"9506","LOC105676787","gene10831","GTP:AMP phosphotransferase AK3, mitochondrial",2005
+"6575","LOC105673857","gene8297","NADH dehydrogenase [ubiquinone] iron-sulfur protein 6, mitochondrial",610
+"3286","LOC105670568","gene5184","prisilkin-39-like",1135
+"3029","LOC105670311","gene4902","isocitrate dehydrogenase [NADP] cytoplasmic",2525
+"10748","LOC105678029","gene1247","uncharacterized LOC105678029",1060
+"8330","LOC105675611","gene9479","protein FAM195B",2120
+"6081","LOC105673363","gene7732","limulus clotting factor C-like",2258
+"4778","LOC105672060","gene6458","tRNA modification GTPase GTPBP3, mitochondrial",2252.5
+"4648","LOC105671930","gene677","mitochondrial 2-oxodicarboxylate carrier",1574.14285714286
+"4626","LOC105671908","gene678","ectonucleoside triphosphate diphosphohydrolase 5",2565
+"5312","LOC105672594","gene742","uncharacterized LOC105672594",3068.66666666667
+"11194","LOC105678475","gene12362","carnitine O-acetyltransferase-like",2708
+"12791","LOC105680072","gene2087","cytochrome c oxidase subunit 6A1, mitochondrial-like",539
+"1688","LOC105668970","gene3657","excitatory amino acid transporter 1-like",2831
+"7736","LOC105675017","gene9236","peroxidase-like",2564
+"11810","LOC105679091","gene12880","protein msta, isoform B-like",2014.5
+"5786","LOC105673068","gene7438","peroxisomal membrane protein 2",932
+"10350","LOC105677631","gene11637","odorant receptor 13a-like",957
+"8997","LOC105676278","gene10324","ATP synthase subunit e, mitochondrial",471
+"10794","LOC105678075","gene11987","tyrosine 3-monooxygenase",3517
+"5343","LOC105672625","gene6920","alpha-2-macroglobulin receptor-associated protein",1373
+"6493","LOC105673775","gene846","elongation factor Tu, mitochondrial-like",1711
+"6386","LOC105673668","gene7968","ATP synthase subunit alpha, mitochondrial",2030
+"1874","LOC105669156","gene3869","uncharacterized LOC105669156",1631
+"12508","LOC105679789","gene1714","putative OPA3-like protein CG13603",971
+"8092","LOC105675373","gene9733","cyclin-dependent kinase 4",3114.5
+"1497","LOC105668779","gene3409","troponin C, isoform 1-like",1298
+"10939","LOC105678220","gene12176","tropomyosin-2-like",1527
+"5385","LOC105672667","gene7096","ornithine decarboxylase antizyme 1",2071
+"9286","LOC105676567","gene10323","dihydropteridine reductase",977
+"4222","LOC105671504","gene5764","probable galactose-1-phosphate uridylyltransferase",1484
+"5905","LOC105673187","gene7540","4-hydroxyphenylpyruvate dioxygenase",1417
+"4477","LOC105671759","gene6151","GTP-binding protein SAR1b",1224.5
+"4386","LOC105671668","gene6159","uncharacterized LOC105671668",772
+"3661","LOC105670943","gene5494","mannose-6-phosphate isomerase",1820
+"2204","LOC105669486","gene4174","cytochrome P450 4g15",2015
+"10647","LOC105677928","gene11849","WW domain-containing oxidoreductase",1543
+"10642","LOC105677923","gene11844","ATP synthase-coupling factor 6, mitochondrial-like",496
+"41","LOC105667323","gene2238","uncharacterized LOC105667323",1242.66666666667
+"8145","LOC105675426","gene9646","UNC93-like protein",2162
+"5699","LOC105672981","gene7392","cytochrome P450 9e2-like",2099
+"5884","LOC105673166","gene7600","muscle-specific protein 20-like",1158
+"4663","LOC105671945","gene6385","uncharacterized LOC105671945",848.75
+"11160","LOC105678441","gene12341","UTP--glucose-1-phosphate uridylyltransferase",1896
+"3123","LOC105670405","gene5026","NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 10, mitochondrial",1526
+"10491","LOC105677772","gene11616","trifunctional enzyme subunit beta, mitochondrial",1721
+"10363","LOC105677644","gene11611","probable cytochrome P450 6a13",1828
+"3694","LOC105670976","gene5537","L-threonine 3-dehydrogenase, mitochondrial",1327.5
+"3693","LOC105670975","gene5538","DNA primase large subunit-like",1926
+"5358","LOC105672640","gene6940","glucose dehydrogenase [FAD, quinone]-like",3066.5
+"9476","LOC105676757","gene10871","uncharacterized LOC105676757",2368
+"6934","LOC105674216","gene8489","ATP synthase subunit delta, mitochondrial",747
+"10129","LOC105677410","gene11478","lipase 1-like",1861
+"2306","LOC105669588","gene4220","apoptosis-inducing factor 3",2154.66666666667
+"10442","LOC105677723","gene11710","short-chain dehydrogenase/reductase family 16C member 6-like",1063
+"3944","LOC105671226","gene5859","NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 5, mitochondrial",822
+"1537","LOC105668819","gene3466","isocitrate dehydrogenase [NAD] subunit gamma, mitochondrial",1682
+"1536","LOC105668818","gene3467","probable ATP-dependent RNA helicase DDX10",2661
+"3867","LOC105671149","gene5703","uncharacterized LOC105671149",912
+"5874","LOC105673156","gene7568","aquaporin AQPAe.a",3317.66666666667
+"5873","LOC105673155","gene7560","uncharacterized LOC105673155",1716.33333333333
+"4329","LOC105671611","gene6178","uncharacterized LOC105671611",3663.46153846154
+"924","LOC105668206","gene3282","transmembrane protease serine 9-like",2181
+"9024","LOC105676305","gene10412","thiamine transporter 1-like",1953.5
+"9972","LOC105677253","gene11280","putative ATP synthase subunit f, mitochondrial",547
+"2075","LOC105669357","gene4035","farnesol dehydrogenase-like",1113
+"2162","LOC105669444","gene4158","glucose-6-phosphate isomerase",3471
+"10649","LOC105677930","gene11868","uncharacterized protein C18orf63-like",1556
+"10650","LOC105677931","gene11869","ankyrin repeat and SAM domain-containing protein 3-like",2617.4
+"8942","LOC105676223","gene10414","actin-interacting protein 1",1872
+"4971","LOC105672253","gene6775","uncharacterized LOC105672253",3885.66666666667
+"2272","LOC105669554","gene459","uncharacterized LOC105669554",1650
+"6758","LOC105674040","gene8340","apolipophorins",10584
+"4654","LOC105671936","gene6413","acyl-CoA synthetase family member 2, mitochondrial",2541
+"4669","LOC105671951","gene6419","fatty acid 2-hydroxylase",1568
+"189","LOC105667471","gene236","neurogenic locus notch homolog protein 1",1748
+"11106","LOC105678387","gene12414","pupal cuticle protein-like",1230
+"3980","LOC105671262","gene5833","putative ammonium transporter 3",1673
+"1145","LOC105668427","gene3079","UDP-glucuronosyltransferase 2B20-like",2177
+"12163","LOC105679444","gene1508","farnesol dehydrogenase-like",1125.5
+"1607","LOC105668889","gene3611","protein EMRE homolog, mitochondrial",676
+"3668","LOC105670950","gene5519","conserved oligomeric Golgi complex subunit 6",2111
+"780","LOC105668062","gene2882","delta(9)-fatty-acid desaturase fat-7",1220
+"11273","LOC105678554","gene12352","mitochondrial ubiquitin ligase activator of NFKB 1",1472
+"11308","LOC105678589","gene12424","cytochrome c oxidase subunit 5B, mitochondrial-like",663
+"12622","LOC105679903","gene1750","uncharacterized LOC105679903",1466
+"1465","LOC105668747","gene3449","C-1-tetrahydrofolate synthase, cytoplasmic",3114
+"5829","LOC105673111","gene7584","sterile alpha and TIR motif-containing protein 1",6060
+"10812","LOC105678093","gene12061","glutamate receptor ionotropic, kainate 2-like",2944
+"10828","LOC105678109","gene12064","DNA damage-regulated autophagy modulator protein 1-like",1142
+"4446","LOC105671728","gene6192","uncharacterized LOC105671728",1815
+"2639","LOC105669921","gene4580","ejaculatory bulb-specific protein 3-like",577
+"12616","LOC105679897","gene1852","alpha-1,3/1,6-mannosyltransferase ALG2",1944.5
+"2085","LOC105669367","gene4055","glycogen [starch] synthase",3057
+"7383","LOC105674664","gene8559","cytochrome P450 6a2-like",2188
+"254","LOC105667536","gene246","",267.083333333333
+"5041","LOC105672323","gene6750","uncharacterized LOC105672323",1961.5
+"11397","LOC105678678","gene12655","uncharacterized LOC105678678",1142
+"1045","LOC105668327","gene3050","PDZ and LIM domain protein 3",2184.875
+"1559","LOC105668841","gene3586","esterase E4-like",2055
+"12210","LOC105679491","gene1560","RNA-binding protein fusilli",4605
+"6","LOC105667288","gene2184","kynurenine formamidase",1368
+"1696","LOC105668978","gene3637","acyl-CoA synthetase short-chain family member 3, mitochondrial",2393.5
+"11190","LOC105678471","gene12380","prolactin regulatory element-binding protein",3227
+"757","LOC105668039","gene2863","circadian clock-controlled protein-like",1110
+"759","LOC105668041","gene2861","uncharacterized LOC105668041",826
+"747","LOC105668029","gene2866","uncharacterized LOC105668029",458
+"760","LOC105668042","gene2864","uncharacterized LOC105668042",977
+"10386","LOC105677667","gene11652","actin, muscle",1864
+"10393","LOC105677674","gene11651","uncharacterized LOC105677674",1983
+"10387","LOC105677668","gene11655","actin-5, muscle-specific",1927
+"10389","LOC105677670","gene11654","actin-5, muscle-specific",1142
+"9828","LOC105677109","gene11129","serine proteinase stubble-like",2335.5
+"9920","LOC105677201","gene11192","dipeptidyl peptidase 3",2830
+"12446","LOC105679727","gene176","uncharacterized LOC105679727",1311
+"12429","LOC105679710","gene172","probable serine/threonine-protein kinase DDB_G0283337",1795
+"12342","LOC105679623","gene1779","uncharacterized LOC105679623",4268
+"8362","LOC105675643","gene9795","prismalin-14-like",755
+"483","LOC105667765","gene3","transcription factor Adf-1-like",1073.25
+"4370","LOC105671652","gene6209","odorant receptor 47a-like",646
+"8252","LOC105675533","gene9687","uncharacterized LOC105675533",2022
+"10817","LOC105678098","gene12048","sodium channel protein Nach-like",2227
+"10852","LOC105678133","gene12041","muscle LIM protein Mlp84B-like",2063.875
+"9259","LOC105676540","gene10697","uncharacterized LOC105676540",2566.66666666667
+"2264","LOC105669546","gene4287","zinc transporter 2-like",2574
+"2129","LOC105669411","gene4079","protein rhomboid",3321.6
+"2105","LOC105669387","gene4074","uncharacterized LOC105669387",2015
+"2148","LOC105669430","gene4118","succinate dehydrogenase cytochrome b560 subunit, mitochondrial-like",859
+"3080","LOC105670362","gene4999","cytochrome b-c1 complex subunit 2, mitochondrial",1637
+"3449","LOC105670731","gene5302","cytochrome P450 4g15-like",2146.75
+"7652","LOC105674933","gene9062","cytochrome c oxidase subunit 6B2-like",1001.5
+"8385","LOC105675666","gene9837","adenylate cyclase type 10-like",5645
+"4231","LOC105671513","gene5901","uncharacterized LOC105671513",2539
+"8529","LOC105675810","gene9836","uncharacterized LOC105675810",4379
+"4232","LOC105671514","gene5902","sarcoplasmic calcium-binding protein 1",1273
+"3747","LOC105671029","gene580","uncharacterized LOC105671029",1038
+"3606","LOC105670888","gene588","hexokinase type 2-like",2929.5
+"9268","LOC105676549","gene1091","fatty acyl-CoA reductase 1",1988
+"23","LOC105667305","gene2210","cytochrome P450 6A1-like",1252
+"12225","LOC105679506","gene1549","fatty acid synthase-like",7547
+"12223","LOC105679504","gene1548","acyl-CoA Delta(11) desaturase-like",1838
+"12221","LOC105679502","gene1546","",212.833333333333
+"12203","LOC105679484","gene1543","sorbitol dehydrogenase-like",1995
+"5548","LOC105672830","gene7267","peroxisomal membrane protein PMP34",1984.5
+"5604","LOC105672886","gene7283","adiponectin receptor protein",1965.33333333333
+"736","LOC105668018","gene2846","uncharacterized LOC105668018",1552
+"9698","LOC105676979","gene11105","cytochrome P450 9e2-like",2006
+"9704","LOC105676985","gene11100","uncharacterized LOC105676985",325
+"11449","LOC105678730","gene1302","uncharacterized LOC105678730",1101
+"11542","LOC105678823","gene1308","CD63 antigen-like",992
+"4924","LOC105672206","gene6650","UDP-glucose 4-epimerase",1709.33333333333
+"2565","LOC105669847","gene4399","odorant receptor Or1-like",1477.5
+"1780","LOC105669062","gene3778","acetyl-CoA acetyltransferase, cytosolic-like",1633
+"10362","LOC105677643","gene11598","probable cytochrome P450 6a14",1855
+"10366","LOC105677647","gene11595","diacylglycerol O-acyltransferase 2-like",1670
+"10337","LOC105677618","gene11596","kynurenine 3-monooxygenase",1933
+"5099","LOC105672381","gene6823","ubiquitin thioesterase OTU1",1607.5
+"3462","LOC105670744","gene5321","fatty-acid amide hydrolase 2-A",2361.5
+"6492","LOC105673774","gene8094","uncharacterized LOC105673774",2663.14285714286
+"9652","LOC105676933","gene10970","cytochrome P450 4C1-like",1542
+"9761","LOC105677042","gene10972","cytochrome P450 4C1-like",2279
+"9728","LOC105677009","gene10977","apolipoprotein D",960
+"3379","LOC105670661","gene5227","selenoprotein M-like",872
+"7112","LOC105674394","gene8896","THAP domain-containing protein 4-like",691
+"2213","LOC105669495","gene4214","retinol dehydrogenase 11-like",878
+"7694","LOC105674975","gene946","odorant receptor Or2-like",855
+"1513","LOC105668795","gene3545","flavin-containing monooxygenase FMO GS-OX-like 3",2167
+"6555","LOC105673837","gene8201","DNA repair protein RAD52 homolog",1186
+"4144","LOC105671426","gene5911","cytochrome c oxidase subunit 4 isoform 1, mitochondrial-like",723
+"4589","LOC105671871","gene6384","uncharacterized LOC105671871",2945
+"2740","LOC105670022","gene4668","chymotrypsin-2-like",1004
+"701","LOC105667983","gene2824","CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase, mitochondrial",1756
+"6085","LOC105673367","gene7670","uncharacterized LOC105673367",1096.25
+"11632","LOC105678913","gene1324","glutamate receptor-interacting protein 2",2882.6
+"12563","LOC105679844","gene1855","uncharacterized LOC105679844",4709.66666666667
+"12564","LOC105679845","gene1854","sodium/potassium-transporting ATPase subunit beta-1-like",1349
+"10560","LOC105677841","gene11781","uncharacterized LOC105677841",1052
+"10523","LOC105677804","gene11783","protein THEM6",1143
+"2810","LOC105670092","gene4743","cytochrome P450 6A1-like",1560
+"4394","LOC105671676","gene6248","vitellogenin-3-like",1769
+"10759","LOC105678040","gene12000","BTB/POZ domain-containing protein KCTD1",2776
+"11623","LOC105678904","gene12557","G-protein coupled receptor Mth-like",2733.33333333333
+"1749","LOC105669031","gene3755","transcription factor Adf-1-like",654
+"1750","LOC105669032","gene3752","cytochrome P450 4C1-like",1311
+"10216","LOC105677497","gene11577","putative succinate dehydrogenase [ubiquinone] cytochrome b small subunit, mitochondrial",921
+"10213","LOC105677494","gene11575","annexin B9",1587
+"10064","LOC105677345","gene11310","uncharacterized LOC105677345",1756
+"5414","LOC105672696","gene7105","uncharacterized LOC105672696",1555
+"5400","LOC105672682","gene7103","CKLF-like MARVEL transmembrane domain-containing protein 8",1765
+"10379","LOC105677660","gene11691","mitochondrial pyruvate carrier 1",766
+"8635","LOC105675916","gene10047","major royal jelly protein 5-like",784
+"8425","LOC105675706","gene9934","succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial-like",4419
+"7755","LOC105675036","gene9243","cuticle protein 7-like",773
+"8817","LOC105676098","gene1055","protein wingless",3025.75
+"12242","LOC105679523","gene1581","venom carboxylesterase-6-like",1347
+"12252","LOC105679533","gene1587","MICOS complex subunit Mic10",381
+"2563","LOC105669845","gene4403","3-ketoacyl-CoA thiolase, mitochondrial",1700
+"5528","LOC105672810","gene7196","protein yellow",1505
+"11766","LOC105679047","gene12946","unconventional myosin-Ie-like",4353
+"457","LOC105667739","gene2613","phospholipid scramblase 1-like",2485.6
+"456","LOC105667738","gene2615","arginine kinase",2865.5
+"688","LOC105667970","gene2801","gephyrin",2031
+"11984","LOC105679265","gene13057","ATP synthase subunit g, mitochondrial",467
+"12482","LOC105679763","gene1874","uncharacterized oxidoreductase C26H5.09c-like",1450
+"12483","LOC105679764","gene1876","probable enoyl-CoA hydratase, mitochondrial",1157
+"4974","LOC105672256","gene6618","protein croquemort-like",3493
+"486","LOC105667768","gene2575","uncharacterized LOC105667768",768
+"489","LOC105667771","gene2573","pheromone-binding protein Gp-9-like",669
+"487","LOC105667769","gene2572","pheromone-binding protein Gp-9-like",683
+"8156","LOC105675437","gene9694","chymotrypsin inhibitor-like",479
+"8155","LOC105675436","gene9693","chymotrypsin inhibitor-like",353
+"2497","LOC105669779","gene4385","CD63 antigen",1989
+"5171","LOC105672453","gene6949","phosphoglycerate mutase 1",1100
+"5450","LOC105672732","gene7140","striated muscle preferentially expressed protein kinase-like",5039
+"5438","LOC105672720","gene7145","mannose-P-dolichol utilization defect 1 protein homolog",1369
+"3499","LOC105670781","gene5366","electron transfer flavoprotein-ubiquinone oxidoreductase, mitochondrial",2547
+"6476","LOC105673758","gene8052","beta-lactamase-like protein 2",1715
+"10233","LOC105677514","gene11556","methyltransferase-like protein 22",1604.6
+"6263","LOC105673545","gene7889","phosphoglucomutase-2",2551
+"5288","LOC105672570","gene7020","major facilitator superfamily domain-containing protein 6",2166.33333333333
+"2239","LOC105669521","gene4281","glucose dehydrogenase [FAD, quinone]",2666
+"2265","LOC105669547","gene4288","uncharacterized LOC105669547",839
+"7901","LOC105675182","gene9304","cat eye syndrome critical region protein 5-like",3433
+"7874","LOC105675155","gene9303","zinc finger protein 853-like",3479
+"1912","LOC105669194","gene3935","coiled-coil domain-containing protein 103-like",706.5
+"11798","LOC105679079","gene12968","malate dehydrogenase, mitochondrial",1511
+"3256","LOC105670538","gene5144","uncharacterized LOC105670538",2060.66666666667
+"6297","LOC105673579","gene7931","fructose-bisphosphate aldolase-like",2304
+"7873","LOC105675154","gene9301","patched domain-containing protein 3-like",5023
+"427","LOC105667709","gene2639","uncharacterized LOC105667709",3483
+"474","LOC105667756","gene2635","UDP-glucuronosyltransferase-like",2225
+"2403","LOC105669685","gene4366","juvenile hormone epoxide hydrolase 1-like",1519
+"2402","LOC105669684","gene4365","juvenile hormone epoxide hydrolase 1-like",1554
+"4842","LOC105672124","gene6638","ribonuclease Oy",1490
+"4839","LOC105672121","gene6637","ATP-binding cassette sub-family G member 1",2188.8
+"3098","LOC105670380","gene5011","neuropeptide-like 3",637
+"11677","LOC105678958","gene12775","SPARC",2055
+"11679","LOC105678960","gene12774","uncharacterized LOC105678960",515
+"11345","LOC105678626","gene12511","endocuticle structural glycoprotein SgAbd-2-like",1061
+"11348","LOC105678629","gene12510","endocuticle structural glycoprotein SgAbd-1",2947
+"1664","LOC105668946","gene3713","uncharacterized LOC105668946",583
+"7820","LOC105675101","gene9286","tropomyosin",2160.76923076923
+"1735","LOC105669017","gene3742","LYR motif-containing protein 5",577
+"1494","LOC105668776","gene3549","uncharacterized LOC105668776",547
+"5571","LOC105672853","gene7220","peptidoglycan recognition protein-like",1683
+"10185","LOC105677466","gene11536","cytochrome c oxidase subunit 5A, mitochondrial",854
+"6748","LOC105674030","gene8380","mitochondrial import inner membrane translocase subunit Tim17-B-like",1049
+"8238","LOC105675519","gene9522","uncharacterized LOC105675519",1788
+"5462","LOC105672744","gene7159","probable phospholipid-transporting ATPase VD",6245
+"241","LOC105667523","gene2383","tropomyosin-1",1339
+"4801","LOC105672083","gene6545","cytochrome P450 4c21-like",739
+"2751","LOC105670033","gene4606","glucosylceramidase-like",1957
+"1660","LOC105668942","gene3708","ADP-ribosylation factor-like protein 5B",3056
+"11019","LOC105678300","gene12188","reticulon-4-interacting protein 1 homolog, mitochondrial-like",1827.66666666667
+"4413","LOC105671695","gene6098","myosin light chain alkali",1227
+"1659","LOC105668941","gene3707","probable citrate synthase 2, mitochondrial",3447
+"12454","LOC105679735","gene1839","UPF0554 protein C2orf43 homolog",1569.66666666667
+"9993","LOC105677274","gene11270","ATP synthase lipid-binding protein, mitochondrial",1159.25
+"433","LOC105667715","gene267","gamma-aminobutyric acid receptor alpha-like",1675.5
+"11561","LOC105678842","gene12755","",207.5
+"11369","LOC105678650","gene12758","elongation of very long chain fatty acids protein AAEL008004-like",713
+"8133","LOC105675414","gene998","acidic fibroblast growth factor intracellular-binding protein",2368
+"8141","LOC105675422","gene999","pyruvate dehydrogenase E1 component subunit beta, mitochondrial-like",2007
+"2559","LOC105669841","gene4548","2-hydroxyacyl-CoA lyase 1",2369
+"11415","LOC105678696","gene12537","NADH-ubiquinone oxidoreductase 49 kDa subunit",1817.5
+"11419","LOC105678700","gene12534","uncharacterized LOC105678700",1287
+"3838","LOC105671120","gene5631","serine protease snake-like",1403
+"5440","LOC105672722","gene7132","elongation of very long chain fatty acids protein AAEL008004-like",846
+"9679","LOC105676960","gene11040","uncharacterized LOC105676960",766
+"9651","LOC105676932","gene10969","",132.636363636364
+"9796","LOC105677077","gene11049","methylcrotonoyl-CoA carboxylase beta chain, mitochondrial",1995
+"8994","LOC105676275","gene10648","riboflavin kinase",644
+"8492","LOC105675773","gene1035","peptidoglycan-recognition protein SC2-like",845
+"8621","LOC105675902","gene10027","waprin-Rha1",880.5
+"8620","LOC105675901","gene10026","WAP four-disulfide core domain protein 2-like",917
+"5035","LOC105672317","gene6565","gonadotropin-releasing hormone II receptor",2418.42857142857
+"8803","LOC105676084","gene10237","congested-like trachea protein",1941
+"8797","LOC105676078","gene10234","acetyl-CoA acetyltransferase, mitochondrial",1594
+"2823","LOC105670105","gene4739","glycine-rich cell wall structural protein 1-like",2650.66666666667
+"7832","LOC105675113","gene9343","4-coumarate--CoA ligase 1-like",1806
+"10486","LOC105677767","gene11702","ubiquitin-conjugating enzyme E2-17 kDa",1776
+"7831","LOC105675112","gene9342","probable 4-coumarate--CoA ligase 5",2460.33333333333
+"8922","LOC105676203","gene10251","mitochondrial-processing peptidase subunit beta",1777
+"3623","LOC105670905","gene5465","lachesin-like",2180.75
+"6625","LOC105673907","gene8221","sarcosine dehydrogenase, mitochondrial",3245
+"3174","LOC105670456","gene5054","protein takeout-like",1100
+"3170","LOC105670452","gene5053","circadian clock-controlled protein",2160
+"3160","LOC105670442","gene5052","protein takeout",1811
+"3162","LOC105670444","gene5050","uncharacterized LOC105670444",1788
+"10265","LOC105677546","gene1190","xylosyltransferase oxt",3152
+"11819","LOC105679100","gene12882","voltage-dependent anion-selective channel-like",1725
+"5724","LOC105673006","gene7347","transmembrane protein 18",1863
+"6409","LOC105673691","gene8031","superoxide dismutase [Mn], mitochondrial",1038
+"7497","LOC105674778","gene9002","uncharacterized LOC105674778",2193
+"12662","LOC105679943","gene1970","probable cytochrome P450 305a1",2316
+"12664","LOC105679945","gene1971","",337.333333333333
+"12706","LOC105679987","gene1972","general vesicular transport factor p115",2874
+"5218","LOC105672500","gene6998","alpha-tocopherol transfer protein-like",1686
+"339","LOC105667621","gene2459","prostaglandin reductase 1-like",1603.5
+"4727","LOC105672009","gene6500","microtubule-associated protein RP/EB family member 1-like",3626.5
+"11088","LOC105678369","gene12271","neurotrimin-like",2681
+"12124","LOC105679405","gene1410","alkaline ceramidase",2227
+"986","LOC105668268","gene3121","uncharacterized LOC105668268",1941
+"989","LOC105668271","gene3120","uncharacterized LOC105668271",1941
+"9958","LOC105677239","gene11237","E3 ubiquitin-protein ligase ZNRF3-like",818
+"9959","LOC105677240","gene11238","general odorant-binding protein 56d-like",603
+"906","LOC105668188","gene2994","uncharacterized LOC105668188",799
+"3187","LOC105670469","gene5077","protein unc-13 homolog D-like",3402
+"10168","LOC105677449","gene1170","hemolymph lipopolysaccharide-binding protein-like",1069
+"10251","LOC105677532","gene1177","cytochrome c1, heme protein, mitochondrial",1265
+"7937","LOC105675218","gene9406","motile sperm domain-containing protein 2-like",1637
+"11489","LOC105678770","gene12716","phospholipase ABHD3",2091
+"2435","LOC105669717","gene4506","NAD kinase-like",2422
+"1729","LOC105669011","gene3736","hydroxysteroid dehydrogenase-like protein 2",1923
+"567","LOC105667849","gene2705","uncharacterized LOC105667849",2381
+"3864","LOC105671146","gene5677","fumarylacetoacetate hydrolase domain-containing protein 2",1494
+"9735","LOC105677016","gene11001","ubiquitin-associated domain-containing protein 1",2453
+"1970","LOC105669252","gene3927","pro-resilin-like",1834
+"3746","LOC105671028","gene5582","vitamin K epoxide reductase complex subunit 1",1092
+"9307","LOC105676588","gene10350","trypsin-like",972
+"7540","LOC105674821","gene9097","uncharacterized LOC105674821",2117
+"8404","LOC105675685","gene9893","inositol polyphosphate 5-phosphatase K-like",2748.66666666667
+"6848","LOC105674130","gene8411","ubiquitin-conjugating enzyme E2 L3",1027.5
+"358","LOC105667640","gene2455","dihydrolipoyl dehydrogenase, mitochondrial",1999
+"4739","LOC105672021","gene6526","PQ-loop repeat-containing protein 3",1101.5
+"10481","LOC105677762","gene11746","uncharacterized LOC105677762",3370
+"11270","LOC105678551","gene12293","uncharacterized LOC105678551",1109
+"3951","LOC105671233","gene5795","triosephosphate isomerase",1283
+"3574","LOC105670856","gene5422","negative regulator of reactive oxygen species-like",1954
+"5837","LOC105673119","gene7497","4-hydroxybenzoate polyprenyltransferase, mitochondrial",1766.25
+"9031","LOC105676312","gene10415","rhythmically expressed gene 5 protein",3078.5
+"12621","LOC105679902","gene1898","UPF0598 protein CG30010",1040
+"12398","LOC105679679","gene1890","innexin inx3",4875.66666666667
+"7142","LOC105674424","gene8777","",199.285714285714
+"7138","LOC105674420","gene8773","3'(2'),5'-bisphosphate nucleotidase 1",1424
+"9940","LOC105677221","gene11153","protein TBRG4",1807.5
+"7143","LOC105674425","gene8779","uncharacterized LOC105674425",873
+"7146","LOC105674428","gene8778","uncharacterized LOC105674428",1265
+"1176","LOC105668458","gene3076","uncharacterized LOC105668458",551
+"9559","LOC105676840","gene10886","retinol dehydrogenase 11-like",1577
+"7972","LOC105675253","gene974","PDZ domain-containing protein GIPC3",2353.45454545455
+"9832","LOC105677113","gene1155","cytochrome P450 9e2-like",2103
+"7594","LOC105674875","gene9138","D-beta-hydroxybutyrate dehydrogenase, mitochondrial",2645
+"7967","LOC105675248","gene9429","uncharacterized LOC105675248",522
+"3523","LOC105670805","gene600","cytochrome P450 4C1-like",2075.33333333333
+"1424","LOC105668706","gene3476","zinc finger protein 598",3885.2
+"1499","LOC105668781","gene3473","venom carboxylesterase-6-like",2256.83333333333
+"11633","LOC105678914","gene12596","soluble calcium-activated nucleotidase 1",1649
+"11476","LOC105678757","gene12590","uncharacterized LOC105678757",750.333333333333
+"4497","LOC105671779","gene6313","NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 7",387
+"3461","LOC105670743","gene579","uncharacterized LOC105670743",950
+"3840","LOC105671122","gene5655","ATP-dependent RNA helicase SUV3 homolog, mitochondrial",2340
+"3796","LOC105671078","gene5657","ejaculatory bulb-specific protein 3-like",618
+"3843","LOC105671125","gene5656","ejaculatory bulb-specific protein 3-like",611
+"6082","LOC105673364","gene7731","serine protease 30-like",1710
+"3853","LOC105671135","gene5659","uncharacterized LOC105671135",2600
+"6975","LOC105674257","gene8500","protein jagunal",1062
+"6037","LOC105673319","gene7736","thyrotropin-releasing hormone receptor-like",1529
+"6665","LOC105673947","gene8241","protein FAM162A-like",987
+"6029","LOC105673311","gene7750","probable H/ACA ribonucleoprotein complex subunit 1",1678
+"10412","LOC105677693","gene11685","uncharacterized LOC105677693",705
+"10790","LOC105678071","gene11974","ATP synthase subunit epsilon, mitochondrial-like",390.5
+"6018","LOC105673300","gene7683","trypsin-like",1075
+"7809","LOC105675090","gene9279","uncharacterized LOC105675090",1383
+"9560","LOC105676841","gene10885","",147.571428571429
+"3305","LOC105670587","gene5134","NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 11, mitochondrial",791
+"9572","LOC105676853","gene10888","uncharacterized LOC105676853",481
+"103","LOC105667385","gene2306","putative acyl-CoA-binding protein",870
+"104","LOC105667386","gene2300","hexamerin-like",3732
+"107","LOC105667389","gene2301","troponin C",672
+"10914","LOC105678195","gene12102","putative uncharacterized protein DDB_G0285119",1172.25
+"10910","LOC105678191","gene12107","electron transfer flavoprotein subunit beta",1142
+"10719","LOC105678000","gene11883","uncharacterized LOC105678000",943
+"10686","LOC105677967","gene11881","nitrate reductase [NADH] 3-like",1467
+"5814","LOC105673096","gene7514","uncharacterized LOC105673096",436
+"7108","LOC105674390","gene8895","uncharacterized LOC105674390",2086
+"10534","LOC105677815","gene11765","uncharacterized LOC105677815",1781
+"8779","LOC105676060","gene10140","ribosome-recycling factor, mitochondrial",995
+"8751","LOC105676032","gene10149","FK506-binding protein 2",2281.5
+"8134","LOC105675415","gene9672","ADP,ATP carrier protein 2",1794
+"7200","LOC105674482","gene919","aldehyde dehydrogenase family 1 member A3",1971.33333333333
+"7978","LOC105675259","gene9441","fatty acid-binding protein, muscle",1083
+"4086","LOC105671368","gene628","ATP synthase subunit O, mitochondrial",864
+"12459","LOC105679740","gene1680","tetratricopeptide repeat protein 39B-like",3313
+"8062","LOC105675343","gene9490","uncharacterized LOC105675343",527
+"4920","LOC105672202","gene6598","uncharacterized LOC105672202",1143
+"1788","LOC105669070","gene3791","uncharacterized LOC105669070",1149
+"8028","LOC105675309","gene9457","probable cytochrome P450 305a1",1837
+"11281","LOC105678562","gene12309","eukaryotic translation initiation factor 4E-binding protein 1",1099.5
+"3846","LOC105671128","gene5650","glycerol-3-phosphate acyltransferase 1, mitochondrial",3343.5
+"2695","LOC105669977","gene4634","myrosinase 1-like",1757
+"2760","LOC105670042","gene4636","dipeptidase 1-like",1645.25
+"2758","LOC105670040","gene4637","UDP-glucuronosyltransferase 2C1-like",2247
+"12582","LOC105679863","gene1910","pyridoxal phosphate phosphatase PHOSPHO2",1360
+"6454","LOC105673736","gene8138","nucleoside diphosphate-linked moiety X motif 8, mitochondrial",1068
+"6592","LOC105673874","gene8256","2-oxoisovalerate dehydrogenase subunit beta, mitochondrial",1941.5
+"7856","LOC105675137","gene9320","uncharacterized LOC105675137",556
+"9345","LOC105676626","gene10318","TNF receptor-associated factor 6-like",1513.5
+"9251","LOC105676532","gene10315","C-type lectin domain family 4 member A",1194
+"9250","LOC105676531","gene10316","nicotinamidase-like",1292
+"6736","LOC105674018","gene8181","acyl carrier protein, mitochondrial",763.5
+"7711","LOC105674992","gene9191","probable cytochrome P450 6g2",1838.66666666667
+"195","LOC105667477","gene2362","cytochrome P450 4C1-like",787
+"6141","LOC105673423","gene7770","uncharacterized LOC105673423",208
+"12073","LOC105679354","gene1473","protein lethal(2)essential for life-like",1861
+"6140","LOC105673422","gene7771","cytochrome P450 4C1-like",701
+"10892","LOC105678173","gene12121","phytanoyl-CoA dioxygenase-like",1338
+"955","LOC105668237","gene3183","uncharacterized LOC105668237",1237
+"1160","LOC105668442","gene3181","histone-lysine N-methyltransferase SMYD3",1561
+"4105","LOC105671387","gene5755","tubulin beta chain-like",1613
+"4299","LOC105671581","gene6122","uncharacterized LOC105671581",4457
+"2470","LOC105669752","gene4517","hyaluronidase-like",2087
+"5248","LOC105672530","gene740","retinol dehydrogenase 11-like",1415
+"6754","LOC105674036","gene8343","dehydrogenase/reductase SDR family member 4",1065
+"11032","LOC105678313","gene1272","uncharacterized LOC105678313",610
+"9346","LOC105676627","gene1110","uncharacterized LOC105676627",4407
+"8970","LOC105676251","gene10439","uncharacterized LOC105676251",2235
+"9139","LOC105676420","gene10431","NADH-ubiquinone oxidoreductase 20 kDa subunit-like",927
+"9355","LOC105676636","gene10433","A disintegrin and metalloproteinase with thrombospondin motifs 17-like",2316.66666666667
+"9273","LOC105676554","gene10434","A disintegrin and metalloproteinase with thrombospondin motifs 7-like",1925
+"4932","LOC105672214","gene6721","cytochrome b-c1 complex subunit 6, mitochondrial",520
+"4760","LOC105672042","gene6460","5-formyltetrahydrofolate cyclo-ligase",794
+"5857","LOC105673139","gene7468","uncharacterized LOC105673139",901
+"12821","LOC105680102","gene2111","nucleoside diphosphate kinase",951
+"8104","LOC105675385","gene9573","putative aminopeptidase W07G4.4",3272
+"11309","LOC105678590","gene12374","phosphoglycerate kinase",2207
+"11188","LOC105678469","gene12379","NADH dehydrogenase [ubiquinone] flavoprotein 1, mitochondrial",1677
+"7800","LOC105675081","gene9302","patched domain-containing protein 3-like",2646
+"5229","LOC105672511","gene6918","uncharacterized LOC105672511",1254
+"1179","LOC105668461","gene3078","phosphatidylinositide phosphatase SAC1",3297
+"10537","LOC105677818","gene11759","probable serine/threonine-protein kinase DDB_G0288147",1555
+"9927","LOC105677208","gene11201","ecdysteroid-regulated 16 kDa protein",776
+"8525","LOC105675806","gene9879","uncharacterized LOC105675806",6312
+"8530","LOC105675811","gene9875","dopamine N-acetyltransferase-like",1662.33333333333
+"8742","LOC105676023","gene10159","uncharacterized LOC105676023",1697
+"8279","LOC105675560","gene9709","succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial",1244
+"4187","LOC105671469","gene5770","D-arabinitol dehydrogenase 1-like",2038
+"4390","LOC105671672","gene6143","methionine-R-sulfoxide reductase B1",1527
+"3651","LOC105670933","gene5488","chitooligosaccharidolytic beta-N-acetylglucosaminidase",1968
+"11262","LOC105678543","gene12391","clavesin-1",1449
+"6301","LOC105673583","gene7814","NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 9, mitochondrial",1485
+"11261","LOC105678542","gene12390","alpha-tocopherol transfer protein-like",2373.5
+"1106","LOC105668388","gene3042","dnaJ homolog subfamily C member 28",1277
+"1104","LOC105668386","gene3041","trifunctional purine biosynthetic protein adenosine-3",3451
+"7066","LOC105674348","gene8860","collagen alpha-2(IV) chain",6768
+"9342","LOC105676623","gene10454","electron transfer flavoprotein subunit alpha, mitochondrial",1124
+"638","LOC105667920","gene2759","phosphoenolpyruvate carboxykinase [GTP]-like",2174
+"6487","LOC105673769","gene8062","uncharacterized LOC105673769",506
+"6959","LOC105674241","gene8513","alpha-crystallin A chain",1152
+"8720","LOC105676001","gene10111","dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex, mitochondrial",2339
+"10219","LOC105677500","gene11442","glucosylceramidase-like",1826
+"7224","LOC105674506","gene8672","annulin",3001
+"2428","LOC105669710","gene4395","phospholipase A2-like",1107
+"1365","LOC105668647","gene3410","laccase-5",6614
+"5817","LOC105673099","gene7574","uncharacterized LOC105673099",688.5
+"4383","LOC105671665","gene6160","uncharacterized LOC105671665",2068
+"4382","LOC105671664","gene6161","cytochrome c-2",976
+"2511","LOC105669793","gene4469","glycine-rich protein-like",684
+"2177","LOC105669459","gene4143","glycogen phosphorylase",3558
+"2178","LOC105669460","gene4141","neuronal acetylcholine receptor subunit alpha-10",1484.5
+"9226","LOC105676507","gene10477","adenylosuccinate synthetase",2672
+"240","LOC105667522","gene243","farnesol dehydrogenase-like",1057
+"2383","LOC105669665","gene468","FMRFamide receptor-like",1299
+"592","LOC105667874","gene2738","uncharacterized LOC105667874",479
+"5675","LOC105672957","gene7387","cytochrome P450 9e2-like",3567
+"5649","LOC105672931","gene7386","uncharacterized LOC105672931",4152
+"5677","LOC105672959","gene7388","cytochrome P450 9e2-like",2022
+"11132","LOC105678413","gene12405","esterase FE4-like",2729
+"1188","LOC105668470","gene3060","putative ATPase N2B",1898
+"12177","LOC105679458","gene1516","cysteine dioxygenase type 1",1121
+"1611","LOC105668893","gene3607","2-oxoisovalerate dehydrogenase subunit alpha, mitochondrial",1447
+"10361","LOC105677642","gene11609","cytochrome P450 6A1-like",1997
+"10370","LOC105677651","gene11605","motile sperm domain-containing protein 1-like",1695
+"11936","LOC105679217","gene1352","cytochrome P450 6B1-like",2140
+"9388","LOC105676669","gene10737","protein Cep78 homolog",1702
+"8337","LOC105675618","gene9536","ATP-binding cassette sub-family G member 4-like",2177.5
+"8482","LOC105675763","gene9830","glutamic acid-rich protein-like",2425
+"12566","LOC105679847","gene1727","probable phytanoyl-CoA dioxygenase",1106
+"7274","LOC105674556","gene8794","phosphate carrier protein, mitochondrial-like",1578
+"4193","LOC105671475","gene5737","fumarate hydratase, mitochondrial-like",1828.5
+"5975","LOC105673257","gene7590","myosin-11-like",2948
+"2028","LOC105669310","gene4024","28S ribosomal protein S36, mitochondrial",747
+"2140","LOC105669422","gene4126","ETS-like protein pointed, isoform P2/D",4680.625
+"8563","LOC105675844","gene9991","NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial",691
+"4937","LOC105672219","gene6740","leucine-rich repeat-containing protein 4-like",2492
+"4590","LOC105671872","gene6401","vitellogenin-2-like",10708
+"4591","LOC105671873","gene6403","uncharacterized LOC105671873",10520
+"10983","LOC105678264","gene12198","uncharacterized LOC105678264",3454
+"1576","LOC105668858","gene3593","unconventional myosin-XVIIIa-like",6867.42857142857
+"1044","LOC105668326","gene3049","isovaleryl-CoA dehydrogenase, mitochondrial",2398
+"1591","LOC105668873","gene3620","bestrophin-4-like",3492.75
+"1579","LOC105668861","gene3625","4-coumarate--CoA ligase 1-like",2495.5
+"3647","LOC105670929","gene5505","MIP18 family protein CG30152",753
+"3645","LOC105670927","gene5504","venom protease-like",1962
+"3642","LOC105670924","gene5507","putative uncharacterized protein DDB_G0271606",3363
+"3649","LOC105670931","gene5503","dynein beta chain, ciliary-like",16436
+"10449","LOC105677730","gene11668","venom acid phosphatase Acph-1-like",2544.5
+"10111","LOC105677392","gene11481","lipase 3-like",1992
+"10114","LOC105677395","gene11486","lipase 3-like",1865
+"10135","LOC105677416","gene11488","uncharacterized LOC105677416",695
+"5674","LOC105672956","gene781","ribose-phosphate pyrophosphokinase 1",1671.75
+"12587","LOC105679868","gene1747","NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 5",536
+"10290","LOC105677571","gene11416","succinyl-CoA ligase [ADP/GDP-forming] subunit alpha, mitochondrial",1713
+"3217","LOC105670499","gene5083","phosphoglycolate phosphatase 1B, chloroplastic-like",1588
+"3210","LOC105670492","gene5087","alpha-N-acetylglucosaminidase",2859
+"4456","LOC105671738","gene6217","uncharacterized LOC105671738",2450
+"4208","LOC105671490","gene5880","glutamate dehydrogenase, mitochondrial-like",2572
+"4174","LOC105671456","gene5888","transmembrane protein 35",2784
+"11223","LOC105678504","gene1214","uncharacterized LOC105678504",351
+"915","LOC105668197","gene3057","uncharacterized LOC105668197",9476
+"10065","LOC105677346","gene11341","liver carboxylesterase 2",2605
+"7237","LOC105674519","gene8597","chitinase-like protein Idgf4",1657
+"8547","LOC105675828","gene9971","microsomal glutathione S-transferase 1-like",720
+"8592","LOC105675873","gene9976","protein drumstick",2571.5
+"3425","LOC105670707","gene5278","uncharacterized transmembrane protein DDB_G0289901-like",2837.5
+"3903","LOC105671185","gene5887","major antigen",2698
+"11548","LOC105678829","gene12669","importin subunit alpha-7",2872
+"9026","LOC105676307","gene1081","F-box/LRR-repeat protein 2",2255.5
+"79","LOC105667361","gene2265","uncharacterized LOC105667361",1207
+"1034","LOC105668316","gene3027","glutathione S-transferase theta-1-like",1004.5
+"12901","LOC105680182","gene2199","protein aveugle",1288
+"2709","LOC105669991","gene4690","cytochrome b-c1 complex subunit Rieske, mitochondrial",1063.5
+"5547","LOC105672829","gene7259","clavesin-1-like",1603.6
+"5588","LOC105672870","gene7251","twisted gastrulation protein homolog 1-A-like",3978
+"5581","LOC105672863","gene7255","uncharacterized LOC105672863",3341.5
+"742","LOC105668024","gene2854","uncharacterized LOC105668024",1349
+"6013","LOC105673295","gene7644","peroxisomal acyl-coenzyme A oxidase 3",2651.5
+"6000","LOC105673282","gene7643","thyrotropin-releasing hormone-degrading ectoenzyme-like",2508
+"9319","LOC105676600","gene10515","arylphorin subunit alpha-like",2228
+"11533","LOC105678814","gene1312","superoxide dismutase [Cu-Zn]-like",1103
+"7172","LOC105674454","gene8781","uncharacterized LOC105674454",1142.6
+"6111","LOC105673393","gene817","NADH dehydrogenase [ubiquinone] iron-sulfur protein 3, mitochondrial",1028
+"9133","LOC105676414","gene102","retinol dehydrogenase 12-like",1301
+"2951","LOC105670233","gene4862","D-beta-hydroxybutyrate dehydrogenase, mitochondrial",1577
+"9440","LOC105676721","gene10779","uncharacterized LOC105676721",1264
+"4481","LOC105671763","gene6231","mitochondrial pyruvate carrier 2-like",1402
+"8280","LOC105675561","gene9535","ATP-binding cassette sub-family G member 4",3012
+"10330","LOC105677611","gene11588","uncharacterized LOC105677611",2274
+"555","LOC105667837","gene2604","V-type proton ATPase subunit D",1187.5
+"10081","LOC105677362","gene11361","4-coumarate--CoA ligase 1",2043
+"6164","LOC105673446","gene7784","ammonium transporter Rh type A",1862.5
+"3866","LOC105671148","gene5658","ejaculatory bulb-specific protein 3-like",705
+"8589","LOC105675870","gene9951","probable medium-chain specific acyl-CoA dehydrogenase, mitochondrial",1460
+"9722","LOC105677003","gene10989","aminopeptidase N-like",3110
+"6281","LOC105673563","gene7878","endocuticle structural protein SgAbd-6-like",1191
+"3511","LOC105670793","gene596","probable tRNA (guanine(26)-N(2))-dimethyltransferase",2816
+"3502","LOC105670784","gene597","aldose reductase-like",1079
+"6466","LOC105673748","gene8118","cytochrome b-c1 complex subunit 9",459.5
+"5578","LOC105672860","gene7274","uncharacterized LOC105672860",662
+"1948","LOC105669230","gene45","twitchin",29325.3243243243
+"718","LOC105668000","gene2839","ATP synthase subunit beta, mitochondrial",2141
+"714","LOC105667996","gene2834","peroxiredoxin-6-like",947
+"711","LOC105667993","gene2833","glycerol-3-phosphate dehydrogenase [NAD( )], cytoplasmic-like",1474
+"10391","LOC105677672","gene11650","THAP domain-containing protein 1-like",1464.5
+"9507","LOC105676788","gene10830","uncharacterized LOC105676788",753
+"9843","LOC105677124","gene11114","sodium-independent sulfate anion transporter-like",2730.14285714286
+"10061","LOC105677342","gene11344","uncharacterized LOC105677342",3700
+"8198","LOC105675479","gene9543","uncharacterized LOC105675479",516
+"2355","LOC105669637","gene4314","dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex, mitochondrial",2126.5
+"9185","LOC105676466","gene10574","inactive hydroxysteroid dehydrogenase-like protein 1",1575.66666666667
+"8953","LOC105676234","gene10571","sodium channel protein Nach-like",2322
+"9331","LOC105676612","gene10570","cAMP-dependent protein kinase catalytic subunit PRKX",2381.5
+"10832","LOC105678113","gene120","putative glycerol kinase 5",2425
+"12692","LOC105679973","gene2015","fatty acid binding protein 1-B.1-like",1081
+"4406","LOC105671688","gene6259","cytochrome b-c1 complex subunit 8",478
+"4349","LOC105671631","gene6253","uncharacterized LOC105671631",1158
+"10833","LOC105678114","gene12035","arylsulfatase B-like",6301
+"4786","LOC105672068","gene6542","uncharacterized LOC105672068",6787
+"6536","LOC105673818","gene8087","aconitate hydratase, mitochondrial-like",3111
+"6521","LOC105673803","gene8085","trehalase-like",3339
+"9762","LOC105677043","gene10968","cytochrome P450 4C1-like",2150
+"6772","LOC105674054","gene8335","probable cytochrome P450 6a14",1940
+"6775","LOC105674057","gene8334","uncharacterized LOC105674057",1255
+"8433","LOC105675714","gene9938","uncharacterized LOC105675714",845
+"8248","LOC105675529","gene9683","proline-rich protein 4-like",1751
+"8250","LOC105675531","gene9686","proline-rich protein 4-like",2097
+"7761","LOC105675042","gene9257","troponin I-like",772.5
+"1453","LOC105668735","gene3575","NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 9",674
+"1451","LOC105668733","gene3572","lambda-crystallin homolog",1221
+"11770","LOC105679051","gene12954","translocation protein SEC63 homolog",2773
+"5512","LOC105672794","gene7211","carboxypeptidase M",2010
+"4278","LOC105671560","gene6065","uncharacterized LOC105671560",1692
+"1667","LOC105668949","gene3685","calcyphosin-like protein",1926
+"7852","LOC105675133","gene9323","mitochondrial uncoupling protein 2-like",2703
+"11303","LOC105678584","gene12460","GTP-binding protein 2",3277.5
+"10542","LOC105677823","gene11799","guanine deaminase",1464
+"2378","LOC105669660","gene4337","nose resistant to fluoxetine protein 6-like",3698
+"9206","LOC105676487","gene10554","uncharacterized LOC105676487",4301
+"8854","LOC105676135","gene10228","carnitine O-palmitoyltransferase 2, mitochondrial",2244
+"11987","LOC105679268","gene13053","protoheme IX farnesyltransferase, mitochondrial",1497.5
+"4986","LOC105672268","gene6663","alkylglycerol monooxygenase-like",1769.25
+"4985","LOC105672267","gene6664","putative uncharacterized protein DDB_G0282499",3117.88888888889
+"5075","LOC105672357","gene721","cytochrome P450 4C1-like",1222
+"1906","LOC105669188","gene3929","tubulointerstitial nephritis antigen-like",2137
+"2524","LOC105669806","gene4532","cytochrome P450 307a1-like",6239
+"2523","LOC105669805","gene4531","facilitated trehalose transporter Tret1-2 homolog",3991
+"10293","LOC105677574","gene11549","cytochrome b-c1 complex subunit 7-like",580
+"3491","LOC105670773","gene5375","aquaporin-12B",2937
+"12217","LOC105679498","gene1553","acyl-CoA dehydrogenase family member 9, mitochondrial-like",2341
+"3328","LOC105670610","gene5211","uncharacterized LOC105670610",2627
+"12025","LOC105679306","gene1387","uncharacterized LOC105679306",1642
+"12445","LOC105679726","gene1832","uncharacterized LOC105679726",4307
+"8443","LOC105675724","gene9913","cationic trypsin-like",1648
+"7607","LOC105674888","gene9005","protein D2-like",2511
+"159","LOC105667441","gene2333","odorant receptor 4-like",1227
+"5558","LOC105672840","gene7234","protein abrupt-like",2195
+"10995","LOC105678276","gene12204","soluble lamin-associated protein of 75 kDa-like",1200
+"12612","LOC105679893","gene1802","uncharacterized LOC105679893",1376
+"8919","LOC105676200","gene10203","short-chain dehydrogenase/reductase family 16C member 6-like",1440
+"8808","LOC105676089","gene10201","short-chain dehydrogenase/reductase family 16C member 6-like",1237
+"3602","LOC105670884","gene5445","uncharacterized LOC105670884",1474
+"3604","LOC105670886","gene5446","annexin B11-like",1190
+"3603","LOC105670885","gene5447","H/ACA ribonucleoprotein complex subunit 1-like",1383
+"6210","LOC105673492","gene7951","lipase 3-like",1629
+"6216","LOC105673498","gene7956","putative gustatory receptor 28a",1350.5
+"3069","LOC105670351","gene4977","ethanolamine-phosphate cytidylyltransferase",2227.75
+"3094","LOC105670376","gene5007","ATP synthase subunit d, mitochondrial-like",1220
+"8642","LOC105675923","gene10013","cytochrome P450 4g15-like",1969
+"11469","LOC105678750","gene12561","uncharacterized LOC105678750",2788
+"11467","LOC105678748","gene12562","carotenoid isomerooxygenase",3128.5
+"5179","LOC105672461","gene6855","charged multivesicular body protein 3",965
+"43","LOC105667325","gene2239","uncharacterized LOC105667325",397
+"6966","LOC105674248","gene8518","branched-chain-amino-acid aminotransferase, cytosolic",2076
+"9621","LOC105676902","gene10929","uncharacterized LOC105676902",1791
+"8708","LOC105675989","gene10078","glyceraldehyde-3-phosphate dehydrogenase 1",1818
+"8331","LOC105675612","gene9644","endoplasmic reticulum resident protein 44",1628.33333333333
+"11852","LOC105679133","gene12993","isocitrate dehydrogenase [NAD] subunit beta, mitochondrial",1523
+"11853","LOC105679134","gene12996","protein Star-like",5765
+"11899","LOC105679180","gene12998","solute carrier family 2, facilitated glucose transporter member 8",3181
+"1509","LOC105668791","gene3535","uncharacterized LOC105668791",291
+"1356","LOC105668638","gene3398","thioredoxin domain-containing protein 11",3841.5
+"2792","LOC105670074","gene4705","GMP reductase 1-like",1396.5
+"12575","LOC105679856","gene1828","probable pyruvate dehydrogenase E1 component subunit alpha, mitochondrial",1619
+"4893","LOC105672175","gene6624","uncharacterized LOC105672175",586
+"7719","LOC105675000","gene9217","cartilage oligomeric matrix protein",4819
+"7313","LOC105674595","gene8707","nurim homolog",1002
+"7080","LOC105674362","gene8708","3-hydroxyacyl-CoA dehydrogenase type-2",1202
+"7909","LOC105675190","gene988","laccase-5-like",2142
+"11356","LOC105678637","gene12503","SET and MYND domain-containing protein 4-like",2111.5
+"11351","LOC105678632","gene12500","probable cytochrome P450 4aa1",2251
+"6169","LOC105673451","gene7796","cytochrome P450 6k1-like",2118.25
+"6170","LOC105673452","gene7797","cytochrome P450 6k1-like",3035
+"268","LOC105667550","gene2423","uncharacterized LOC105667550",1616
+"266","LOC105667548","gene2422","fatty acid synthase-like",7044
+"264","LOC105667546","gene2420","ras-related protein Rab-1A",1567
+"1059","LOC105668341","gene3259","acylphosphatase-2",1631
+"2640","LOC105669922","gene4574","uncharacterized LOC105669922",1223
+"5701","LOC105672983","gene7377","monocyte to macrophage differentiation factor 2",2906
+"4595","LOC105671877","gene6363","uncharacterized LOC105671877",1693
+"10144","LOC105677425","gene11508","uncharacterized LOC105677425",2343
+"8980","LOC105676261","gene10677","epimerase family protein SDR39U1",1452
+"6211","LOC105673493","gene7866","alpha-tocopherol transfer protein-like",1602
+"6339","LOC105673621","gene7867","endoglucanase 11-like",2633
+"8650","LOC105675931","gene10015","uncharacterized LOC105675931",3628
+"8654","LOC105675935","gene10018","uncharacterized LOC105675935",3085
+"8520","LOC105675801","gene1022","4-coumarate--CoA ligase 1-like",3133
+"4252","LOC105671534","gene6087","moesin/ezrin/radixin homolog 1",4613.6
+"608","LOC105667890","gene2647","NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 13",817.8
